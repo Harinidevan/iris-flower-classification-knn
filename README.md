@@ -90,19 +90,19 @@ KNN classifies a flower by comparing it with the nearest data points in the data
 
 ### Dataset Overview
 
-![Dataset Overview](screenshots/Dataset_overview.png)
+![Dataset Overview](Dataset_overview.png)
 
 ### Data Visualization
 
-![Data Visualization](screenshots/visualize_dataset.png)
+![Data Visualization](visualize_dataset.png)
 
 ### Model Evaluation
 
-![Model Evaluation](screenshots/Model_evaluation.png)
+![Model Evaluation](Model_evaluation.png)
 
 ### Prediction Output
 
-![Prediction Output](screenshots/prediction_output.png)
+![Prediction Output](prediction_output.png)
 
 ---
 
